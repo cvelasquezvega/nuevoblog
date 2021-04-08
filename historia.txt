@@ -1,0 +1,3 @@
+Hola a todos, bienvenidos a mi proyecto Git y GitHub    
+
+Mi nombre es Carlos, y quiero compartirles algunos datos interesantes de este sistema de versionamiento.
