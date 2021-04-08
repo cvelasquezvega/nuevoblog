@@ -3,3 +3,7 @@ Hola a todos, bienvenidos a mi proyecto Git y GitHub
 Mi nombre es Carlos Fernando, y quiero compartirles algunos datos interesantes de este sistema de versionamiento. Amo Platzi.
 
 Participo de diferentes conferencias a nivel mundial.
+
+Parece tener conocimientos en Desarrollo, pero hasta ahira está aprendiendo.
+
+Sigue en proceso de aprendizaje.
