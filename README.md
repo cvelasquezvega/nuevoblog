@@ -6,3 +6,4 @@ Para más información puede visitarnos en el siguiente enlace: LINK
 Interviene aquí un nuevo colaborador, en este caso GeeMach!
 
 Hola, aquí hago otros comentarios, soy Gee.
+Envío aquí un nuevo commit.
